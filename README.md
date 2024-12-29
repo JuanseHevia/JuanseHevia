@@ -27,14 +27,6 @@ Here are some of the technologies and tools I work with:
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-## GitHub Stats
-
-![JuanseHevia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanseHevia&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanseHevia&layout=compact&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/juanse-hevia)
