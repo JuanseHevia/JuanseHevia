@@ -17,6 +17,8 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 Here are some of the technologies and tools I work with:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
+![Weights & Biases](https://img.shields.io/badge/-Weights%20&%20Biases-333333?style=flat&logo=WeightsAndBiases)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
