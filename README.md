@@ -1,4 +1,4 @@
-# Hi there, I'm JuanseHevia! 👋
+# Hi there, I'm Juanse Hevia! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JuanseHevia&color=blue)
 
