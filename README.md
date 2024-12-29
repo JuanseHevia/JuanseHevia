@@ -11,7 +11,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 - 👯 I’m looking to collaborate on AI applications with concrete social impact, especially addressing how governments implement development policies.
 - 💬 Ask me about: AI and Cloud Engineering. I have +5 years working with generative and predictive AI in startups and research labs.
 - 📫 How to reach me: jh216@rice.edu
-- ⚡ Fun fact: I got email from a Nobel Peace and the Pope 🤯
+- ⚡ Fun fact: I got email from a Nobel Peace Prize winner and the Pope 🤯
 
 ## Tech Stack
 
