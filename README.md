@@ -7,7 +7,7 @@
 I'm a passionate ML Engineer and Software Developer with a keen interest in web development, open-source projects, and continuous learning. I enjoy working on challenging problems and building innovative solutions that make a difference.
 
 - 🔭 I’m currently working on [Accessible AI Tutors](https://github.com/JuanseHevia/accessible-ai-tutors)
-- 🌱 I’m currently pursuing an MS in Data Science at Rice University (Go Owls 🦉 !)
+- 🎓 I’ve recently graduated from a MS in Data Science at Rice University (Go Owls 🦉 !)
 - 👯 I’m looking to collaborate on AI applications with concrete social impact, especially addressing how governments implement development policies.
 - 💬 Ask me about: AI and Cloud Engineering. I have +5 years working with generative and predictive AI in startups and research labs.
 - 📫 How to reach me: juanse.hevia@gmail.com
