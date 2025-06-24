@@ -39,10 +39,10 @@ Here are some of the technologies and tools I work with:
 - [AAAI'25 Applications of SLMs for Education](https://github.com/JuanseHevia/quantized-education-v2): Code for AAAI '25 Efficient AI Tutors. Language pipeline designed to integrate a Small Language Model augmented with knowledge retrieval.
 - [InstructPix2Pix Conceptual Inpainting evaluation](https://github.com/JuanseHevia/ELEC542-InstructP2P): Analysis on InstructPix2Pix capabilities for handling colorization tasks with open-ended, conceptual prompts.
 
-
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
-You can email me at 📥 jh216@rice.edu
+You can email me at 📥 juanse.hevia@gmail.com
 
